@@ -11,6 +11,12 @@ public class Ville{
 		this.population=population;
 		this.estCapitale=false;
 	}
+	public String getNom(String nom){
+		return this.nom;
+	}
+	public void setNom(String nom){
+		this.nom=nom;
+	}
 
 
 
