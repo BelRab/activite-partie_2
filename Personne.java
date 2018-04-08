@@ -1,4 +1,4 @@
-package fr.opencalssrooms.personne;
+package fr.openclassrooms.personne;
 
 public class Personne{
 	private int age;
